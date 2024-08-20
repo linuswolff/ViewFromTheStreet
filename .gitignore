@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+
+# Ignore virtual environment
+venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore large or unnecessary data files
+Data/*.RData
+Data/*.csv
+
+# Ignore cache and temporary files
+__pycache__/
+*.tmp

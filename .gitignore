@@ -9,7 +9,6 @@ venv/
 
 # Ignore large or unnecessary data files
 Data/*.RData
-Data/*.csv
 
 # Ignore cache and temporary files
 __pycache__/

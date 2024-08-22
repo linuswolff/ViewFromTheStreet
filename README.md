@@ -2,6 +2,9 @@
 
 > This repository contains the code and (some of the) data for my master's thesis project. The project is about the relationship between urban environmental features, as observed from street view imagery, and housing prices in Rotterdam. The thesis text is available [here](https://linuswolff.github.io/ViewFromTheStreet/thesis_text.pdf).
 
+The thesis text is available <a href="https://linuswolff.github.io/ViewFromTheStreet/thesis_text.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+
+
 
 ---
 

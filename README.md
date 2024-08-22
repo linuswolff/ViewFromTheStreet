@@ -8,6 +8,18 @@
 
 ![Distribution of image-derived environmental features across Rotterdam.](Data/resources/distribution_image_vars_rotterdam.png)
 
+![Distribution of image-derived environmental features across Rotterdam.](Data/resources/distribution_image_vars_rotterdam.png)
+
+*Distribution of image-derived environmental features across Rotterdam.*
+
+<p align="center">
+  <img src="Data/resources/distribution_image_vars_rotterdam.png" alt="Distribution of image-derived environmental features across Rotterdam.">
+  <br>
+  <em>Figure 1: Distribution of image-derived environmental features across Rotterdam.</em>
+</p>
+
+
+
 ...
 
 ![Example Street View Images: Valid (top) and Invalid (bottom).](Data/resources/valid_invalid_images.png)

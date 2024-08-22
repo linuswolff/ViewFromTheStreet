@@ -6,34 +6,44 @@
 
 **Keywords:** computer vision, hedonic pricing models, random forest, real estate valuation, street-view imagery, urban environmental factors
 
-![Distribution of image-derived environmental features across Rotterdam.](Data/resources/distribution_image_vars_rotterdam.png)
-
-![Distribution of image-derived environmental features across Rotterdam.](Data/resources/distribution_image_vars_rotterdam.png)
-
-*Distribution of image-derived environmental features across Rotterdam.*
+---
 
 <p align="center">
   <img src="Data/resources/distribution_image_vars_rotterdam.png" alt="Distribution of image-derived environmental features across Rotterdam.">
   <br>
-  <em>Figure 1: Distribution of image-derived environmental features across Rotterdam.</em>
+  <em>Distribution of image-derived environmental features across Rotterdam.</em>
 </p>
 
+...
 
+<p align="center">
+  <img src="Data/resources/valid_invalid_images.png" alt="Example Street View Images: Valid (top) and Invalid (bottom).">
+  <br>
+  <em>Example Street View Images: Valid (top) and Invalid (bottom).</em>
+</p>
 
 ...
 
-![Example Street View Images: Valid (top) and Invalid (bottom).](Data/resources/valid_invalid_images.png)
+<p align="center">
+  <img src="Data/resources/greenery_segmentation_images_masks.png" alt="Original Images (Top) and their Segmented Masks (Bottom) reveal the extent of greenery in different urban settings. The percentages represent the Urban Greenery Index (UGI) for each scene.">
+  <br>
+  <em>Original Images (Top) and their Segmented Masks (Bottom) reveal the extent of greenery in different urban settings. The percentages represent the Urban Greenery Index (UGI) for each scene.</em>
+</p>
 
 ...
 
-![Original Images (Top) and their Segmented Masks (Bottom) reveal the extent of greenery in different urban settings. The percentages represent the Urban Greenery Index (UGI) for each scene.](Data/resources/greenery_segmentation_images_masks.png)
+<p align="center">
+  <img src="Data/resources/object_detection_images_bboxes.png" alt="Visual representation of our Object Detection results, showcasing bounding boxes highlighting People (yellow), Cars (red), and Bicycles (blue).">
+  <br>
+  <em>Visual representation of our Object Detection results, showcasing bounding boxes highlighting People (yellow), Cars (red), and Bicycles (blue).</em>
+</p>
 
 ...
 
-![Visual representation of our Object Detection results, showcasing bounding boxes highlighting People (yellow), Cars (red), and Bicycles (blue).](Data/resources/object_detection_images_bboxes.png)
-
-...
-
-![Stylized visualization of the Spatial Association (with a chosen radius of 250m).](Data/resources/properties_images_assoc.png)
+<p align="center">
+  <img src="Data/resources/properties_images_assoc.png" alt="Stylized visualization of the Spatial Association (with a chosen radius of 250m).">
+  <br>
+  <em>Stylized visualization of the Spatial Association (with a chosen radius of 250m).</em>
+</p>
 
 ...
